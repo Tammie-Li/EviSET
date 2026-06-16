@@ -43,7 +43,7 @@ pip install numpy pandas scipy scikit-learn mne torch matplotlib
 Install the PyTorch build that matches your CUDA or CPU environment from the official PyTorch instructions if the generic command is not suitable for your machine.
 
 ### Raw Data Layout
-
+The data can be found at https://www.alipan.com/s/kptSVTdNudq. 
 The preprocessing script expects one folder per subject:
 
 ```text
